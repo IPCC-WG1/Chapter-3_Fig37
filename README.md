@@ -1,5 +1,6 @@
 ENSO SEASONALITY
 ================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6656600.svg)](https://doi.org/10.5281/zenodo.6656600)
 
 Figure number: Figure 3.37
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
